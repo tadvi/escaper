@@ -1,4 +1,4 @@
-module github.com/andybalholm/escaper
+module github.com/tadvi/escaper
 
 go 1.12
 
